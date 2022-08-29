@@ -121,7 +121,7 @@ class Login extends Component {
                 {/* Modal Footer */}
                 <div className="modalFooter">
                     <span>Don't have and account? <a onClick={() => this.props.handleNavigationClick()}>Sign up</a></span>
-                    <span>Lost 't your password? <a onClick={() => this.props.showPasswordRecovery()}>Recover password</a></span>
+                    <span>Lost your password? <a onClick={() => this.props.showPasswordRecovery()}>Recover password</a></span>
                 </div>
             </div>
         );
