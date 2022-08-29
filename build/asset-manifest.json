@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2df8e39e.chunk.css",
+    "main.js": "/static/js/main.ceb5a336.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.225d974a.js",
+    "static/css/2.61c7aef1.chunk.css": "/static/css/2.61c7aef1.chunk.css",
+    "static/js/2.5af60025.chunk.js": "/static/js/2.5af60025.chunk.js",
+    "static/js/3.70cbc508.chunk.js": "/static/js/3.70cbc508.chunk.js",
+    "static/js/4.c8bf7dfb.chunk.js": "/static/js/4.c8bf7dfb.chunk.js",
+    "static/js/5.e53f1c30.chunk.js": "/static/js/5.e53f1c30.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.3c936409fcba65c54e645453b70851ea.js": "/precache-manifest.3c936409fcba65c54e645453b70851ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.5af60025.chunk.js.LICENSE.txt": "/static/js/2.5af60025.chunk.js.LICENSE.txt",
+    "static/js/4.c8bf7dfb.chunk.js.LICENSE.txt": "/static/js/4.c8bf7dfb.chunk.js.LICENSE.txt",
+    "static/js/5.e53f1c30.chunk.js.LICENSE.txt": "/static/js/5.e53f1c30.chunk.js.LICENSE.txt",
+    "static/media/1.JPG": "/static/media/1.0c571bfb.JPG",
+    "static/media/2.JPG": "/static/media/2.fba17867.JPG",
+    "static/media/3.JPG": "/static/media/3.776a5714.JPG",
+    "static/media/4.jpg": "/static/media/4.af60bc02.jpg",
+    "static/media/UploadIcon.svg": "/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/address.svg": "/static/media/address.1b5120a5.svg",
+    "static/media/envelope.svg": "/static/media/envelope.4891f098.svg",
+    "static/media/logo.png": "/static/media/logo.e5ee4e39.png",
+    "static/media/phone-call.svg": "/static/media/phone-call.f57fd852.svg",
+    "static/media/preview.png": "/static/media/preview.5f4c69ad.png",
+    "static/media/undraw_add_document_0hek.svg": "/static/media/undraw_add_document_0hek.9082c49f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.225d974a.js",
+    "static/css/2.61c7aef1.chunk.css",
+    "static/js/2.5af60025.chunk.js",
+    "static/css/main.2df8e39e.chunk.css",
+    "static/js/main.ceb5a336.chunk.js"
+  ]
+}
