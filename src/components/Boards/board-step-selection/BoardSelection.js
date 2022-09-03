@@ -25,12 +25,13 @@ class BoardSelection extends Component {
             <div className="templatesList">
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv1")} src={require('../../../assets/1.JPG')} alt="Cv Preview" /> </div>
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv2")} src={require('../../../assets/2.JPG')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv3")} src={require('../../../assets/3.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv3")} src={require('../../../assets/2.JPG')} alt="Cv Preview" /> </div>
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv1")} src={require('../../../assets/1.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv2")} src={require('../../../assets/2.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv3")} src={require('../../../assets/2.JPG')} alt="Cv Preview" /> </div>
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
+              
             </div>
           </div>
         </CSSTransition>
