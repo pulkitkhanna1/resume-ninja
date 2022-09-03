@@ -27,12 +27,12 @@ class BoardSelection extends Component {
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv2")} src={require('../../../assets/2.JPG')} alt="Cv Preview" /> </div>
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv3")} src={require('../../../assets/3.JPG')} alt="Cv Preview" /> </div>
               <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/4.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv1")} src={require('../../../assets/5.JPG')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv2")} src={require('../../../assets/6.JPG')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv3")} src={require('../../../assets/7.JPG')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/8.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/9.jpg')} alt="Cv Preview" /> </div>
-              <div className="template"> <img onClick={() => this.handleResumeClick("Cv4")} src={require('../../../assets/10.jpg')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv5")} src={require('../../../assets/5.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv6")} src={require('../../../assets/6.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv7")} src={require('../../../assets/7.JPG')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv8")} src={require('../../../assets/8.jpg')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv9")} src={require('../../../assets/9.jpg')} alt="Cv Preview" /> </div>
+              <div className="template"> <img onClick={() => this.handleResumeClick("Cv10")} src={require('../../../assets/10.jpg')} alt="Cv Preview" /> </div>
               
             </div>
           </div>
